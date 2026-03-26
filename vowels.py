@@ -3,4 +3,4 @@ v = "aeiouAEIOU"
 
 for i in n:
     if i not in v:
-        print(i, end="")
+        print("This is not a vowel", i, end="")
