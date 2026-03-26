@@ -1,4 +1,4 @@
-n = input()
+n = input("Enter a string : ")
 v = "aeiouAEIOU"
 
 for i in n:
